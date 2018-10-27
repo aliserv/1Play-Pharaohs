@@ -1,6 +1,6 @@
-token= NTA0NTEwMTU5OTQ3ODI1MTUz.DrGF0w.nxjYptvHhy2BZ6J19DMSooIrYCA
+token= NTA0MzgxODgxMzU0MTU4MTA0.DrYmIA.mGyHYnDWIcLjDkx3QRG1w1xlwko
 owner= 314866432418643969 
-prefix= 2
-game= Type 2help
+prefix= vi
+game= Type vi help
 stayinchannel=true 
 songinstatus=false 
