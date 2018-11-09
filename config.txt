@@ -1,6 +1,6 @@
-token= NTA0MzgxODgxMzU0MTU4MTA0.DrYmIA.mGyHYnDWIcLjDkx3QRG1w1xlwko
-owner= 314866432418643969 
-prefix= vi
-game= Type vi help
+token= NTEwNTc2NDY3MjQzOTU4MzAx.DseW-g.CQ46zp8WmNayce11cDKAXSgkyAo
+owner= 408136927259131905 
+prefix= 1play
+game= Pharaohs
 stayinchannel=true 
 songinstatus=false 
