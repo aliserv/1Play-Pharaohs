@@ -1,6 +1,6 @@
 token= NTEwNTc2NDY3MjQzOTU4MzAx.DseW-g.CQ46zp8WmNayce11cDKAXSgkyAo
 owner= 408136927259131905 
-prefix= 1play
+prefix= 2play
 game= Pharaohs
 stayinchannel=true 
 songinstatus=false 
