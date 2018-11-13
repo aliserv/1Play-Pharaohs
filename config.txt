@@ -1,6 +1,6 @@
-token= NTEwNTc2NDY3MjQzOTU4MzAx.DseW-g.CQ46zp8WmNayce11cDKAXSgkyAo
-owner= 408136927259131905 
-prefix= 2play
-game= Pharaohs
+token= NTEyMDM5ODA0ODUxMTkxODQ5.DszuZw.s-fxm49F9_dPGibd2es9Dw1KA_I
+owner= 314866432418643969 
+prefix= 3
+game= 3help
 stayinchannel=true 
 songinstatus=false 
